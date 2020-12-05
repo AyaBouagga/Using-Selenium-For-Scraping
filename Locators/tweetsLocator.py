@@ -1,0 +1,5 @@
+class TweetsLocators:
+    TWEET = "ContentLocator "
+
+
+
